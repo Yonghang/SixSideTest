@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SixAngleImageView">
+        <attr name="itemImage" format="reference" />
+        <attr name="itemString" format="string|reference" />
+        <attr name="itemTextSize" format="dimension|reference" />
+        <attr name="itemSixColor" format="color" />
+    </declare-styleable>
+</resources>
